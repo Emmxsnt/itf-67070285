@@ -58,5 +58,5 @@ function setDefaultprofile() {
 window.onload = setDefaultprofile;
 
 document.getElementById('username').addEventListener('click', function() {
-    window.location.href = 'https://github.com/Rattapoomm';
+    window.location.href = 'https://github.com/Emmxsnt';
 });
